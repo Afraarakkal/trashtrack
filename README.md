@@ -7,6 +7,7 @@ AI-Based Waste Classifier
 
 
 *Basic Details*
+
 Team Name: TrashTrack
 
 
