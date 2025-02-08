@@ -2,7 +2,7 @@
 
 
 *Project Name:* 🎯
- TrashTrack : AI-Based Waste Classifier
+ **TrashTrack** : AI-Based Waste Classifier
 
 
 
