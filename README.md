@@ -1,4 +1,4 @@
-# trashtrack
+# TrashTrack
 
 
 *Project Name* 🎯
@@ -8,7 +8,7 @@ AI-Based Waste Classifier
 
 *Basic Details*
 
-Team Name: TrashTrack
+Team Name: Hustle Squad
 
 
 
