@@ -1,12 +1,12 @@
 
 
 
-*Project Name:* 🎯
+#*Project Name:* 🎯
  **TrashTrack** : AI-Based Waste Classifier
 
 
 
-*Basic Details*
+#*Basic Details*
 
 Team Name: Hustle Squad
 
