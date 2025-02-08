@@ -3,7 +3,7 @@
 
 *Project Name* 🎯
 AI-Based Waste Classifier
-the game part of the webpage is in the github link sorce code(https://github.com/Nourin04/trashgame)
+the game part of the webpage is in the github link source code(https://github.com/Nourin04/trashgame)
 
 
 *Basic Details*
