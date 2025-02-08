@@ -1,8 +1,8 @@
 # TrashTrack
 
 
-*Project Name* 🎯
-AI-Based Waste Classifier
+*Project Name:* 🎯
+# TrashTrack : AI-Based Waste Classifier
 
 
 
