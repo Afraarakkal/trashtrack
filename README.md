@@ -75,7 +75,7 @@ We use AI to automate waste classification! Just upload an image of the object, 
 
 *Team Contributions*
 - *Rifana Sherin*: Website development and desining
- *Noureen AC*:  Model development, data preprocessing, and UI design
+- *Noureen AC*:  Model development, data preprocessing, and UI design
 - *Fathima Afra AM*: Main page designing
 
 ---
