@@ -35,8 +35,8 @@ We use AI to automate waste classification! Just upload an image of the object, 
 
 *For Software:*
 - *Languages used:* Python,Javascript,HTML,CSS
-- *Frameworks used:* TensorFlow, Keras
-- *Libraries used:* OpenCV, NumPy, Pandas, Matplotlib, Seaborn
+- *Frameworks used:* TensorFlow, Streamlit, PyTorch, Tensorflow
+- *Libraries used:* , NumPy, Pillow, 
 - *Tools used:* Jupyter Notebook, Google Colab
 
 ---
