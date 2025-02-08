@@ -48,18 +48,10 @@ We use AI to automate waste classification! Just upload an image of the object, 
 
 ---
 
-*Implementation*
 
-*For Software:*
-
-
-
-
----
 
 *Project Documentation*
 
-*For Software:*
 
 *Screenshots*
 ![image](https://github.com/user-attachments/assets/3b696b95-c66d-4e04-8f48-35d548ab0d82)
