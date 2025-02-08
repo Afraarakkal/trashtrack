@@ -4,8 +4,12 @@
 *Project Name* 🎯
 AI-Based Waste Classifier
 the game part of the webpage is in the github link sorce code(https://github.com/Nourin04/trashgame)
+
+
 *Basic Details*
 Team Name: TrashTrack
+
+
 
 *Team Members*
 Member 1: Rifana Sherin - Government Engineering College, Kozhikode
