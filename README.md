@@ -3,7 +3,7 @@
 
 *Project Name* 🎯
 AI-Based Waste Classifier
-the game part of the webpage is in the github link source code(https://github.com/Nourin04/trashgame)
+
 
 
 *Basic Details*
@@ -21,6 +21,8 @@ Member 3: Fathima Afra AM - Government Engineering College, Kozhikode
 
 *Hosted Project Link*
 https://afraarakkal.github.io/trashtrack/
+
+the game part of the webpage is in the github link source code(https://github.com/Nourin04/trashgame)
 
 ---
 
