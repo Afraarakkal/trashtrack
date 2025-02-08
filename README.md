@@ -13,7 +13,9 @@ Team Name: TrashTrack
 
 *Team Members*
 Member 1: Rifana Sherin - Government Engineering College, Kozhikode
+
 Member 2: Noureen AC - Government Engineering College, Kozhikode
+
 Member 3: Fathima Afra AM - Government Engineering College, Kozhikode
 
 *Hosted Project Link*
