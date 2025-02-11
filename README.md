@@ -1,6 +1,4 @@
-Here’s a well-structured version of your project details:  
 
----
 
 # **🎯 TrashTrack: AI-Based Waste Classifier**  
 
@@ -58,6 +56,4 @@ _This video demonstrates how the AI model classifies waste images in real-time._
 - **Noureen AC** – Model development, data preprocessing, and UI design  
 - **Fathima Afra AM** – Main page designing  
 
----
 
-This structure makes the document clean, professional, and easy to read. Let me know if you need any modifications! 🚀
